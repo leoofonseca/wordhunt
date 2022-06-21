@@ -1,0 +1,1 @@
+export const WORDS_BIGGER_THAN_SIZE = 'There are words bigger than the puzzle dimensions!'
