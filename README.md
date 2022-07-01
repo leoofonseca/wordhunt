@@ -1,2 +1,2 @@
 # wordhunt
-A project which aim is to implement a dynamic word hunt generator that exports its data to an .csv file.
+A project which aims to implement a dynamic word hunt generator based on the words wanted and the target board size.
